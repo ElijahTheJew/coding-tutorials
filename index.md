@@ -6,7 +6,7 @@
     <h4 id="main-title-sub">Python tutorials, references and ideas</h4>
     
   </body>
-</html>
+
 
     var print = function(text, element) {
       if (element != null) {
@@ -14,3 +14,4 @@
         textElement.value = text
       }
     }
+</html>
